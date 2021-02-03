@@ -1,4 +1,5 @@
 # kroki
-dzienne kroki
+dzienne kroki zrobione przez bewu
 
-[kroki](https://bewu-ib.github.io/kroki/)
+
+###### [github pages](https://bewu-ib.github.io/kroki/) <br/> [github repo that generates these files](https://github.com/bewuwy/mi-band-steps)
