@@ -1,4 +1,4 @@
-## kroki, które zrobił bewu w:
+## kroki, które zrobiłem w:
 
  - [2021](2021/)
 
