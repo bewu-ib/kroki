@@ -1,115 +1,143 @@
 {
     "1": {
         "num": 1412,
-        "dis": null
+        "dis": null,
+        "goal": 8000
     },
     "2": {
         "num": 1909,
-        "dis": null
+        "dis": null,
+        "goal": 8000
     },
     "3": {
         "num": 10961,
-        "dis": null
+        "dis": null,
+        "goal": 8000
     },
     "4": {
         "num": 1901,
-        "dis": null
+        "dis": null,
+        "goal": 8000
     },
     "5": {
         "num": 9656,
-        "dis": null
+        "dis": null,
+        "goal": 8000
     },
     "6": {
         "num": 3731,
-        "dis": null
+        "dis": null,
+        "goal": 8000
     },
     "7": {
         "num": 7714,
-        "dis": null
+        "dis": null,
+        "goal": 8000
     },
     "8": {
         "num": 2559,
-        "dis": null
+        "dis": null,
+        "goal": 8000
     },
     "9": {
         "num": 9484,
-        "dis": null
+        "dis": null,
+        "goal": 8000
     },
     "10": {
         "num": 4686,
-        "dis": null
+        "dis": null,
+        "goal": 8000
     },
     "11": {
         "num": 9732,
-        "dis": null
+        "dis": null,
+        "goal": 8000
     },
     "12": {
         "num": 8659,
-        "dis": null
+        "dis": null,
+        "goal": 8000
     },
     "13": {
         "num": 2326,
-        "dis": 1676
+        "dis": 1676,
+        "goal": 8000
     },
     "14": {
         "num": 14611,
-        "dis": 11081
+        "dis": 11081,
+        "goal": 8000
     },
     "15": {
         "num": 2761,
-        "dis": 1986
+        "dis": 1986,
+        "goal": 8000
     },
     "16": {
         "num": 4601,
-        "dis": 3557
+        "dis": 3557,
+        "goal": 8000
     },
     "17": {
         "num": 2089,
-        "dis": 1485
+        "dis": 1485,
+        "goal": 8000
     },
     "18": {
         "num": 14573,
-        "dis": 11419
+        "dis": 11419,
+        "goal": 8000
     },
     "19": {
         "num": 5446,
-        "dis": 4214
+        "dis": 4214,
+        "goal": 8000
     },
     "20": {
         "num": 16193,
-        "dis": 13149
+        "dis": 13149,
+        "goal": 8000
     },
     "21": {
         "num": 20638,
-        "dis": 16738
+        "dis": 16738,
+        "goal": 8000
     },
     "22": {
         "num": 9530,
-        "dis": 7626
+        "dis": 7626,
+        "goal": 8000
     },
     "23": {
         "num": 10081,
-        "dis": 7484
+        "dis": 7484,
+        "goal": 8000
     },
     "24": {
         "num": 10173,
-        "dis": 7733
+        "dis": 7733,
+        "goal": 8000
     },
     "25": {
         "num": 8572,
-        "dis": 6380
+        "dis": 6380,
+        "goal": 8000
     },
     "26": {
         "num": 7997,
-        "dis": 5960
+        "dis": 5960,
+        "goal": 8000
     },
     "27": {
         "num": 9932,
-        "dis": 7139
+        "dis": 7139,
+        "goal": 8000
     },
     "28": {
         "num": 25609,
-        "dis": 20025
+        "dis": 20025,
+        "goal": 8000
     },
     "average": {
         "num": 8483,
